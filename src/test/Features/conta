@@ -1,9 +1,0 @@
-# language: pt
-@ContaTeste
-Funcionalidade: Testar as opeacoes basicas de conta
-O sistema deve prover o saque e deposito na conta de forma correta.
-Dado a conta criada para o dono "Jean" de numero "123456"
-Quando o dono realiza o deposito no valor de 5000 na conta
-E o dono realiza o primeiro saque no valor de 1000 na conta
-E o dono realiza o segundo saque no valor de 2000 na conta
-Então o dono tem o saudo no valor 2000 esperado na conta

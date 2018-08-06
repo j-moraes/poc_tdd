@@ -10,7 +10,7 @@
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-compiler-plugin</artifactId>
                     <!-- Versão do plugin maven -->
-                    <version>3.3</version>
+                    <version>3.5.4</version>
                     <configuration>
                            <!-- Versão do java -->
                            <source>1.8</source>
